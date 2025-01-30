@@ -1,3 +1,1 @@
-##cos tutaj
-
-## 1 cos
+# Tu trzeba dodać funkcję która zrobi z liczby podanej jako argument liczę o jedne większą i ją zwróci!
